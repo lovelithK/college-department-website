@@ -71,3 +71,8 @@ th {
     font-size: 14px;
   }
 }
+
+.highlight {
+  color: #1a5276;
+  font-style: italic;
+}
